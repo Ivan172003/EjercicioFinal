@@ -1,0 +1,122 @@
+.titulo{
+
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+    font-size: 60px;
+}
+
+body {
+
+    margin: 0;
+    padding: 0;
+    background:url(IMG/Logo\ Mate.jpg);
+    background-size:cover;
+    background-position:center;
+    font-family:sans-serif;
+}
+
+    /* .titulo{
+
+    text-align:center;
+    font-size:50px;
+    paddign:40px;
+    background-color: royalblue;
+    }*/
+
+.Primera{
+
+    padding: 10px;
+    margin: 170px;
+    margin-top: 8px;
+    margin-left: 15px;
+    border: 10px solid  black;
+}
+
+.Primera:hover{
+
+    background-color: rgb(116, 211, 240);
+}
+
+.Segunda{
+
+    padding: 10px;
+    margin: 170px;
+    margin-top: 8px;
+    margin-left: 15px;
+    border: 10px solid black;
+}
+
+.Segunda:hover{
+
+    background-color: rgb(116, 211, 240);
+}
+
+.Tercera{
+
+    padding: 10px;
+    margin: 170px;
+    margin-top: 8px;
+    margin-left: 15px;
+    border: 10px solid black;
+}
+
+.Tercera:hover{
+
+    background-color: rgb(116, 211, 240);
+}
+
+.Cuarta{
+
+    padding: 10px;
+    margin: 170px;
+    margin-top: 8px;
+    margin-left: 15px;
+    border: 10px solid black;
+}
+
+.Cuarta:hover{
+
+    background-color: rgb(116, 211, 240);
+}
+
+.Num1{
+
+    margin-left: 15px;
+    text-align: left;
+    padding: 10px;
+}
+
+.Num2{
+
+    margin-left: 15px;
+    text-align: left;
+    padding: 10px;
+}
+
+.Num3{
+
+    margin-left: 15px;
+    text-align: left;
+    padding: 10px;
+}
+
+.Num4{
+
+    margin-left: 15px;
+    text-align: left;
+    padding: 10px;
+}
+
+.Operaciones{
+
+    border: 8px solid black;
+    width: 20%;
+    height: 100%;
+    background-color: rgb(252, 214, 143);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    text-align: center;
+    padding: 10px;
+}
